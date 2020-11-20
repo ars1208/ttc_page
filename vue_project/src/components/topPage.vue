@@ -3,6 +3,8 @@
     <yearBlock2014></yearBlock2014>
     <yearBlock2015></yearBlock2015>
     <yearBlock2016></yearBlock2016>
+    <yearBlock2017></yearBlock2017>
+    <yearBlock2018></yearBlock2018>
   </div>
 </template>
 
@@ -10,12 +12,16 @@
 import yearBlock2014 from './yearBlock2014'
 import yearBlock2015 from './yearBlock2015'
 import yearBlock2016 from './yearBlock2016'
+import yearBlock2017 from './yearBlock2017'
+import yearBlock2018 from './yearBlock2018'
 
 export default {
   components: {
     yearBlock2014,
     yearBlock2015,
-    yearBlock2016
+    yearBlock2016,
+    yearBlock2017,
+    yearBlock2018
   }
 }
 </script>
@@ -23,11 +29,17 @@ export default {
 <style>
   .top {
     background-image: linear-gradient(180deg, #cdcecf, #577080);
-    height: 940px;
+    height: 1600px;
   }
 
   .container {
     background-color: #6d6565;
     height: 300px;
+    width: auto;
+    margin: 20px;
+  }
+
+  .container li {
+    list-style: none;
   }
 </style>

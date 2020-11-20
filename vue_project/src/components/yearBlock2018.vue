@@ -1,14 +1,14 @@
 <template>
   <div class="container">
-    <div class="year2014">
+    <div class="year2018">
       <div class="boxL">
-        <h1>2014年</h1>
+        <h1>2018年</h1>
       </div>
     </div>
-    <div class="contents2014">
+    <div class="contents2018">
       <div class="boxR">
         <ul>
-          <li>代替わり</li>
+          <li></li>
         </ul>
       </div>
     </div>
