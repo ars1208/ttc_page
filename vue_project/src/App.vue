@@ -1,15 +1,17 @@
 <template>
   <div>
-    <toppage></toppage>
+    <topPage></topPage>
   </div>
 </template>
 
 <script>
-import toppage from './components/topPage'
+import topPage from './components/topPage'
+import myHeader from './components/myHeader'
 
 export default {
   components: {
-    toppage
+    topPage,
+    myHeader
   }
 }
 </script>
