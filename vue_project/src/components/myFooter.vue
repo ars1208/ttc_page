@@ -1,5 +1,5 @@
 <template>
-  <div class="header">
+  <div class="footer">
       <h1>連絡先</h1>
   </div>
 </template>
