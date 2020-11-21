@@ -39,9 +39,25 @@ export default {
     width: auto;
     margin: 20px;
     display: flex;
+    border-radius: 30px;
   }
 
   .container li {
     list-style: none;
+  }
+
+  .boxL {
+    width: 800px;
+    font-size: 40px;
+  }
+
+  .boxL {
+    text-align: center;
+  }
+
+  .boxR {
+    width: 800px;
+    margin: 0 0 0 auto;
+    font-size: 25px;
   }
 </style>
