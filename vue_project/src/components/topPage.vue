@@ -29,7 +29,8 @@ export default {
 <style>
   .top {
     background-image: linear-gradient(180deg, #cdcecf, #577080);
-    height: 1600px;
+    height: 160
+    0px;
   }
 
   .container {
@@ -37,6 +38,7 @@ export default {
     height: 300px;
     width: auto;
     margin: 20px;
+    display: flex;
   }
 
   .container li {

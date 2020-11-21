@@ -1,12 +1,12 @@
 <template>
   <div class="container">
-    <div class="year2015">
-      <div class="boxL">
+    <div class="boxL">
+      <div class="year2015">
         <h1>2015年</h1>
       </div>
     </div>
-    <div class="contents2015">
-      <div class="boxR">
+    <div class="boxR">
+      <div class="contents2015">
         <ul>
           <li>ビールかけ</li>
           <li>スキー旅行</li>
