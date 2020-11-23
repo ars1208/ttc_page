@@ -28,16 +28,15 @@ export default {
 
 <style>
   .top {
-    background-image: linear-gradient(180deg, #cdcecf, #577080);
     height: auto;
   }
 
   .container {
-    background-color: #6d6565;
     height: auto;
     width: auto;
     margin: 20px;
     display: flex;
+    border: solid 2px;
     border-radius: 30px;
   }
 
@@ -48,10 +47,8 @@ export default {
 
   .boxL {
     width: 800px;
-    font-size: 40px;
-  }
-
-  .boxL {
+    font-family: 'Big Shoulders Stencil Display', cursive;
+    font-size: 60px;
     text-align: center;
   }
 

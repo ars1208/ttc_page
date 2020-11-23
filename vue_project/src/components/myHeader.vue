@@ -1,6 +1,6 @@
 <template>
   <div class="header">
-      <h1>卓球同好会</h1>
+      <h1>卓球同好会Web</h1>
   </div>
 </template>
 

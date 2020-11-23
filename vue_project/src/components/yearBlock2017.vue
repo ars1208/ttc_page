@@ -2,7 +2,7 @@
   <div class="container">
     <div class="boxL">
       <div class="year2017">
-        <h1>2017年</h1>
+        <h1>2017</h1>
       </div>
     </div>
     <div class="boxR">
