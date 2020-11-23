@@ -29,13 +29,12 @@ export default {
 <style>
   .top {
     background-image: linear-gradient(180deg, #cdcecf, #577080);
-    height: 160
-    0px;
+    height: auto;
   }
 
   .container {
     background-color: #6d6565;
-    height: 300px;
+    height: auto;
     width: auto;
     margin: 20px;
     display: flex;
@@ -44,6 +43,7 @@ export default {
 
   .container li {
     list-style: none;
+    margin: 20px;
   }
 
   .boxL {

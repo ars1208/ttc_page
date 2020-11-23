@@ -9,8 +9,13 @@
       <div class="contents2016">
         <ul>
           <li>スポデー</li>
+          <li>夏旅行</li>
+          <li>夏合宿</li>
+          <li>秋旅行</li>
           <li>ビールかけ</li>
           <li>代替わり</li>
+          <li>春合宿</li>
+          <li>卒業式</li>
         </ul>
       </div>
     </div>
