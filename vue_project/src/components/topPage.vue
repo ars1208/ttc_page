@@ -46,15 +46,15 @@ export default {
   }
 
   .boxL {
-    width: 800px;
+    width: 900px;
     font-family: 'Big Shoulders Stencil Display', cursive;
-    font-size: 60px;
+    font-size: 70px;
     text-align: center;
   }
 
   .boxR {
-    width: 800px;
-    margin: 0 0 0 auto;
+    width: 700px;
+    margin: 0 0 0 0px;
     font-size: 25px;
   }
 </style>
