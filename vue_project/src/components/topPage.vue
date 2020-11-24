@@ -57,4 +57,29 @@ export default {
     margin: 0 0 0 0px;
     font-size: 25px;
   }
+
+  /* 小さい画面での表示*/
+  @media (max-width: 530px) {
+    .boxL {
+      width: 900px;
+      font-family: 'Big Shoulders Stencil Display', cursive;
+      font-size: 50px;
+      text-align: center;
+    }
+
+    .hideContents {
+      font-family: 'Noto Sans JP', sans-serif;
+      font-size: 20px;
+    }
+
+    .boxR {
+      display: none;
+    }
+  }
+
+  @media (min-width: 531px) {
+    .hideContents {
+      display: none;
+    }
+  }
 </style>
